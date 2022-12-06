@@ -51,12 +51,12 @@ docs:
       - title: "Finite State Machines"
         url: /docs/fsm/
       - title: "ROHD Simulator"
-        url: /docs/rohd-syntax-example/
+        url: /docs/simulator/
       - title: "Instantiation of External Modules"
-        url: /docs/rohd-syntax-example/
+        url: /docs/external-modules/
       - title: "Unit Testing"
-        url: /docs/rohd-syntax-example/
+        url: /docs/unit-test/
   - title: "Contributing"
     children:
       - title: "Contributing"
-        url: /docs/rohd-syntax-example/
+        url: /docs/contributing/
