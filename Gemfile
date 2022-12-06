@@ -15,6 +15,8 @@ source "https://rubygems.org"
 gem "github-pages", "~> 223", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'jekyll-admin', group: :jekyll_plugins
+gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git", :tag => "4.24.0"
+
 # gem "jekyll", "~> 3.9.0"
 # gem "jekyll-remote-theme"
 # gem "minimal-mistakes-jekyll"
