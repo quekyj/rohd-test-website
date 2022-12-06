@@ -1,5 +1,5 @@
 ---
-title: "Sample Example"
+title: "ROHD Example"
 permalink: /docs/sample-example/
 excerpt: "Sample example of using ROHD."
 last_modified_at: 2022-12-05T08:48:05-04:00

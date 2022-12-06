@@ -20,36 +20,36 @@ get-started:
 docs:
   - title: "Documentation"
     children:
-      - title: "Sample Example"
+      - title: "ROHD Example"
         url: /docs/sample-example/
       - title: "Logical Signals"
         url: /docs/logical-signals/
       - title: "Constant"
-        url: /docs/rohd-syntax-example/
+        url: /docs/constant/
       - title: "Assignment"
-        url: /docs/rohd-syntax-example/
+        url: /docs/assignment/
       - title: "Simple logical, mathematical, and comparison operations"
-        url: /docs/rohd-syntax-example/
+        url: /docs/logic-math-compare/
       - title: "Shift Operations"
-        url: /docs/rohd-syntax-example/
+        url: /docs/shift-operations/
       - title: "Bus ranges and swizzling"
-        url: /docs/rohd-syntax-example/
+        url: /docs/bus-range-swizzling/
       - title: "Modules"
-        url: /docs/rohd-syntax-example/
+        url: /docs/modules/
       - title: "Sequentials"
-        url: /docs/rohd-syntax-example/
+        url: /docs/sequentials/
       - title: "Conditionals"
-        url: /docs/rohd-syntax-example/
+        url: /docs/conditionals/
       - title: "Interfaces"
-        url: /docs/rohd-syntax-example/
+        url: /docs/interfaces/
       - title: "Non-Synthesizable signal deposition"
-        url: /docs/rohd-syntax-example/
-      - title: "Custom module behaviour with custom inline SV representation"
-        url: /docs/rohd-syntax-example/
+        url: /docs/non-synthesizable-signal/
+      - title: "Custom module behaviour"
+        url: /docs/custom-module-behavior-inline-system-verilog/
       - title: "Pipelines"
-        url: /docs/rohd-syntax-example/
+        url: /docs/pipelines/
       - title: "Finite State Machines"
-        url: /docs/rohd-syntax-example/
+        url: /docs/fsm/
       - title: "ROHD Simulator"
         url: /docs/rohd-syntax-example/
       - title: "Instantiation of External Modules"

@@ -10,7 +10,7 @@ header:
       url: "/get-started/setup/"
 excerpt: >
   Develop and design Hardware seamlessly with the power of ROHD.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  <small><a href="https://github.com/intel/rohd/releases">Latest release v0.4.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
